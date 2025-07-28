@@ -1,0 +1,7 @@
+.main {
+  display: flex;
+  flex-wrap: wrap;          /* Cards will wrap to the next row */
+  justify-content: center;  /* Center the 3 cards horizontally */
+  gap: 2rem;                /* Space between cards */
+  padding: 2rem;            /* Equal padding on all sides */
+}
